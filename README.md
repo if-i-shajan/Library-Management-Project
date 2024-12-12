@@ -3,11 +3,12 @@
 This project is a C-based library management system designed to manage library operations such as adding books, issuing books, and viewing records through an interactive menu.
 
 
+
 ---
 
 ## Features
 
-📚 Book Management
+###📚 Book Management
 
 Add Book: Add new books to the library with details like ID, name, and author.
 
@@ -43,31 +44,21 @@ File Handling: Persistent storage of books and issued book records.
 
 ---
 
-## How to Use
+## How to Use:
 
-1. Compile the Program:
+1. Compile the Program
 
-gcc library.c -o library.exe
+2. Run the Program
 
-
-2. Run the Program:
-
-./library.exe
-
-
-3. Login Credentials:
+3. Login Credentials
 
 User ID: admin
 
 Password: admin
 
-
-
 4. Navigate the Menu:
 
 Use the interactive menu to manage books and issued records.
-
-
 
 5. Exit: Select option 0 from the menu.
 
@@ -109,8 +100,6 @@ User-Friendly Interface: Easily navigate through the menu.
 
 
 ---
-
-
 
 This is our first project in C languages.😊
 Hope that it will go well.
