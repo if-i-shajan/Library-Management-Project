@@ -1,11 +1,11 @@
-Library Management System
+# Library Management System
 
 This project is a C-based library management system designed to manage library operations such as adding books, issuing books, and viewing records through an interactive menu.
 
 
 ---
 
-Features
+## Features
 
 📚 Book Management
 
@@ -33,7 +33,7 @@ Admin Login: Authenticate with a user ID and password to access the system.
 
 ---
 
-Technologies Used
+## Technologies Used
 
 C Language: Core programming for system operations.
 
@@ -43,7 +43,7 @@ File Handling: Persistent storage of books and issued book records.
 
 ---
 
-How to Use
+## How to Use
 
 1. Compile the Program:
 
@@ -76,7 +76,7 @@ Use the interactive menu to manage books and issued records.
 
 ---
 
-File Details
+## File Details
 
 books.txt: Stores all library book information.
 
@@ -86,7 +86,7 @@ issue.txt: Stores all issued book records.
 
 ---
 
-Daily Benefits
+## Daily Benefits
 
 Efficient Book Management: Organize and track library resources.
 
@@ -98,7 +98,7 @@ User-Friendly Interface: Easily navigate through the menu.
 
 ---
 
-Future Improvements
+## Future Improvements
 
 🔍 Search Feature: Implement book and student search options.
 
