@@ -8,7 +8,7 @@ This project is a C-based library management system designed to manage library o
 
 ## Features
 
-###📚 Book Management
+📚 Book Management
 
 Add Book: Add new books to the library with details like ID, name, and author.
 
