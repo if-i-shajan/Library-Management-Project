@@ -110,7 +110,6 @@ Future Improvements
 
 ---
 
-Add this to your GitHub project README.md file or any documentation platform to create a professional and webpage-like interface for your project details.
 
 
 This is our first project in C languages.😊
