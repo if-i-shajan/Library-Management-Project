@@ -101,6 +101,6 @@ User-Friendly Interface: Easily navigate through the menu.
 
 ---
 
-This is our first project in C languages.😊
+This is my first project in C languages.😊
 
 Hope that it will go well.
