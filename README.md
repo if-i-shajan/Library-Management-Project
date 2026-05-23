@@ -3,6 +3,18 @@
 This project is a C-based library management system designed to manage library operations such as adding books, issuing books, and viewing records through an interactive menu.
 
 
+## 👥 Dev
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/if-i-shajan">
+        <img src="https://github.com/if-i-shajan.png" width="100px" height="100px" style="object-fit:cover;" alt="Shajan"/>
+        <br/>
+        <b>J.M. Ifthakharul Islam Shajan</b>
+      </a>
+  </tr>
+</table>
 
 ---
 
